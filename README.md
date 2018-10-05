@@ -10,3 +10,5 @@ When evaluating recommender systems for their fairness, it may be necessary to m
 
 Conference: 2nd FATREC Workshop on Responsible Recommendation, 12th ACM Conference on Recommender Systems, 2018
 Link: https://arxiv.org/abs/1809.04199
+
+The data can be downloaded from here: https://grouplens.org/datasets/movielens/1m/
