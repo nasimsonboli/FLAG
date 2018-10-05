@@ -1,8 +1,5 @@
-# FLAG
-# Frequency Linked Attribute for Evaluating Consumer-side Fairness
-# Synthetic Attribute
-# Recommender Systems
-# Fairness
+# FLAG: Frequency Linked Attribute for Evaluating Consumer-side Fairness
+
 
 Please refer to our paper for technical details.
 
