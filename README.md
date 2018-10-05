@@ -4,7 +4,9 @@
 Please refer to our paper for technical details.
 
 Title: Synthetic Attribute Data for Evaluating Consumer-side Fairness
+
 Authors: Robin Burke, Jackson Kontny, Nasim Sonboli
+
 Abstract: 
 When evaluating recommender systems for their fairness, it may be necessary to make use of demographic attributes, which are personally sensitive and usually excluded from publicly-available data sets. In addition, these attributes are fixed and therefore it is not possible to experiment with different distributions using the same data. In this paper, we describe the Frequency-Linked Attribute Generation (FLAG) algorithm, and show its applicability for assigning synthetic demographic attributes to recommendation data sets.
 
